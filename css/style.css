@@ -1,0 +1,29 @@
+h1 {
+  font-size: 48px;
+}
+
+.color--brand {
+  color: rgb(52, 84, 122) !important;
+}
+
+.color--brand-hover:hover {
+  color: rgb(52, 84, 122) !important;
+}
+
+.bg--color-brand {
+  background-color: rgb(52, 84, 122) !important;
+  border: none;
+}
+
+.bg--color-grey {
+  background-color: rgb(238, 239, 241) !important;
+  border: none;
+}
+
+.bg--color-white {
+  background-color: white !important;
+}
+
+.card-text {
+  width: clamp(18.25rem, 32vw, 35rem) !important;
+}
