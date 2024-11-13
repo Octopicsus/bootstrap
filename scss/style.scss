@@ -24,6 +24,10 @@ h2{
     border: none;
 }
 
+.color--white{
+    color: white;
+}
+
 .bg--color-white {
     background-color: white !important;
 }
@@ -31,3 +35,4 @@ h2{
 .card-text{
     width:clamp(18.25rem, 32vw, 35rem) !important;
 }
+
